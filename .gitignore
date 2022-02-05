@@ -1,0 +1,5 @@
+/script/.env
+/script/storage/logs
+/script/storage/framework/sessions
+/script/vendor
+/uploads
